@@ -1,0 +1,19 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "drlamer-plugins",
+  "version": "1.0.0",
+  "description": "Plugin marketplace for drlamer's Claude Code plugins",
+  "owner": {
+    "name": "drlamer",
+    "email": "drlamer@users.noreply.github.com"
+  },
+  "plugins": [
+    {
+      "name": "roblox-game-design-partner",
+      "description": "Transform game concepts into polished Roblox experiences",
+      "source": "github.com/drlamer/roblox-game-design-partner-plugin",
+      "category": "development",
+      "version": "1.0.0"
+    }
+  ]
+}
