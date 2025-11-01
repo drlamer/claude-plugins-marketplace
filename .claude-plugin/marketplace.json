@@ -11,7 +11,7 @@
     {
       "name": "roblox-game-design-partner",
       "description": "Transform game concepts into polished Roblox experiences",
-      "source": "github.com/drlamer/roblox-game-design-partner-plugin",
+      "source": "./plugins/roblox-game-design-partner",
       "category": "development",
       "version": "1.0.0"
     }
